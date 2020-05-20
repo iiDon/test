@@ -1,0 +1,158 @@
+* {
+    margin: 0;
+}
+
+img {
+    position: relative;
+    width: 100%;
+    max-height: 85vh;
+}
+
+body {
+    background-color: rgb(41, 36, 36);
+}
+
+.Main_menu {
+    display: inline;
+    position: absolute;
+    top: 0%;
+    left: 31%;
+    color: white;
+    font-size: 20px;
+    list-style-type: none;
+    font-family: cursive, sans-serif;   
+}
+
+a.Main_menu:hover {
+    text-decoration: none;
+    color: orange;
+}
+
+.ML li {
+    float: left ;
+  }
+  
+.ML a {
+    display: block;
+    color: white;
+    padding: 16px;
+    text-decoration: none;
+  }
+
+a:hover {
+    transition: 0.5s;
+    color: orange;
+    text-decoration: underline;
+}
+
+h1 {
+    font-size: 80px;
+    color: white;
+    font-family: cursive, sans-serif;
+    position: absolute;
+    top: 27%;
+    left: 35%;
+}
+h6 {
+    font-size: 21px;
+    color: rgb(197, 187, 187);
+    font-family: cursive, sans-serif;
+    position: absolute;
+    top: 40%;
+    left: 34%;
+    text-align: center;
+}
+
+h5 {
+
+    font-size: 21px;
+    color: rgb(99, 83, 83);
+    font-family: cursive, sans-serif;
+    position: absolute;
+    top: 52%;
+    left: 40%;
+    text-align: center;
+
+}
+  
+.test {
+    position: absolute;
+    top: 55%;
+    left: 42%;
+    color: white;
+    
+}
+.test i {
+    float: left;
+    margin: 10px;
+}
+
+.test a {
+    color: white;
+}
+
+.test a:hover {
+    color: orange;
+}
+
+.AboutMeIcon {
+    color: white;
+
+}
+
+.AboutMeIcon i {
+    padding-right: 100px;
+    margin: 100px;
+    display: block;
+    position: absolute;
+    top: 82%;
+    right: 60%;
+    
+}
+h3 {
+    color: white;
+    font-size: 25px;
+    position: absolute;
+    top: 93%;
+    right: 58%;
+}
+
+p {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 100%;
+    right: 80%;
+
+}
+
+h4 {
+    font-size: 18px;
+    color: rgb(151, 144, 144);
+    position: absolute;
+    top: 95%;
+    left: 34.8%;
+    text-align: left;
+    padding: 30px;
+}
+
+.h2 h2 {
+    color: white;
+    font-size: 25px;
+    position: absolute;
+    top: 115%;
+    right: 55.5%;
+}
+
+.h2 h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: rgb(151, 144, 144);
+    position: absolute;
+    top: 117%;
+    left: 34.8%;
+    text-align: left;
+    padding: 30px;
+
+}
